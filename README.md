@@ -1,4 +1,4 @@
-![Image](https://github.com/khouwdevin/nextron-chakraui/blob/main/images/window.png?raw=true)
+![Image](https://github.com/khouwdevin/nextron-chakraui/blob/main/renderer/public/window.png?raw=true)
 ## Usage
 
 ### Install Dependencies
