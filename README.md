@@ -1,19 +1,5 @@
-<p align="center"><img src="https://i.imgur.com/NZfsD1p.png"></p>
-
+![Image](https://github.com/khouwdevin/nextron-chakraui/blob/main/images/window.png?raw=true)
 ## Usage
-
-### Create an App
-
-```
-# with npx
-$ npx create-nextron-app my-app --example basic-typescript
-
-# with yarn
-$ yarn create nextron-app my-app --example basic-typescript
-
-# with pnpx
-$ pnpx create-nextron-app my-app --example basic-typescript
-```
 
 ### Install Dependencies
 
